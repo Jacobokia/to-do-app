@@ -6,11 +6,17 @@
 
 .container {
     width: 100%;
-
-}
-
-h2 {}
-
-.todo-app {
     display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
+
+ul {
+    padding: 20px;
+    list-style-type: none;
+}
+
+ul li {}
+
+.todo-app {}
